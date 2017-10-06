@@ -23,3 +23,7 @@ figcaption {
 .hadi {
   font-size: 1rem;
 }
+
+nav a:hover {
+  color: #b42885
+}
