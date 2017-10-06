@@ -27,9 +27,9 @@ figcaption {
 nav {
   font-weight: bold;
   font-size: 1.125rem
-  color: #793284
+  color: #793284;
 }
 
 nav a:hover {
-  color: #b42885
+  color: #b42885;
 }
